@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+lxml
+urllib3
+tqdm
+colorama
+ollama
+aiohttp
+aiodns
+python-slugify
+html5lib
